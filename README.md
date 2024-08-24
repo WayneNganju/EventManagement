@@ -1,4 +1,3 @@
-Here's an updated README with the setup instructions included:
 
 ---
 
